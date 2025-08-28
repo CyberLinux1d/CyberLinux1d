@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://h.top4top.io/s_352741pok1.jpg" alt="CyberLinuxID" width="600"/>
+  <img src=" " alt="CyberLinuxID" width="600"/>
 </p>
 
 ---
