@@ -9,6 +9,11 @@
 **CyberLinux.ID** adalah komunitas bagi para **hacker, developer, dan ahli keamanan siber**  
 yang menggabungkan kekuatan **Linux** dan **Ethical Hacking**.  
 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CyberLinux1d&label=Profile%20views&color=808080&style=flat" alt="CyberLinux1d" />
+</p>
+
 ---
 
 ## 🎯 Fokus Kami
