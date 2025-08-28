@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://h.top4top.io/s_352741pok1.jpg" alt="CyberLinuxID" width="600"/>
+</p>
 
-<!--
-**CyberLinux1d/CyberLinux1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🐧 CyberLinux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**CyberLinux.ID** adalah komunitas bagi para **hacker, developer, dan ahli keamanan siber**  
+yang menggabungkan kekuatan **Linux** dan **Ethical Hacking**.  
+
+---
+
+## 🎯 Fokus Kami
+- 📂 Pembagian **tools hacking gratis**  
+- 🎁 Pembagian **item hacking gratis**  
+- 🛠️ Project tools berbagai sumber & project buatan sendiri  
+- 🌐 Pembagian **alat web hacking**  
+
+---
+
+## 📡 Komunitas & Kontak
+- 👥 **Grup Telegram** : [CyberLinuxID](https://t.me/CyberLinuxID)  
+- 👤 **Owner** : [@viaownercyberlinuxid](https://t.me/viaownercyberlinuxid)  
+- 📢 **Saluran WhatsApp** : [CyberLinuxID Channel](https://whatsapp.com/channel/0029Vb8ECg0A2pLGrAtizQ2W)  
+- 🌍 [Website](https://9o1kc.mssg.me/)  
+- 🐙 [GitHub](https://github.com/CyberLinux1d)  
+
+---
+
+### ⚠️ Disclaimer
+Semua tools & project di repo ini dibuat untuk **edukasi dan riset keamanan siber**.  
+Kami **tidak bertanggung jawab** atas penyalahgunaan di luar tujuan tersebut.  
+Gunakan dengan bijak ⚡
