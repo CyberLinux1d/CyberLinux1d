@@ -20,10 +20,10 @@
 
 ---
 
-# Tech & Skills
+#  Tech & Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,github,redhat,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,github,redhat,vscode&theme=dark" />
   </a>
 </p>
 
