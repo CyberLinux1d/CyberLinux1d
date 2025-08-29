@@ -21,9 +21,9 @@
 ---
 
 #  Tech & Skills
-<p align="center">
+<p align="center" style="background-color:black; padding:15px; border-radius:15px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,github,redhat,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,github,redhat,vscode&theme=light" />
   </a>
 </p>
 
