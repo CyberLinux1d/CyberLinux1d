@@ -8,7 +8,7 @@
 
 ---
 
-### hello welcome ! To us From Team Linux
+### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/hand-wave.svg" width="20" style="color:black"/> hello welcome ! To us From Team Linux
 > Repositori ini berisi berbagai web + **tools, project, dan riset keamanan siber**.  
 > Kami fokus pada **pembelajaran, eksplorasi, dan sharing tools gratis** untuk semua orang.
 
@@ -20,7 +20,7 @@
 
 ---
 
-#  Tech & Skills
+# Tech & Skills
 <p align="center" style="background-color:black; padding:15px; border-radius:15px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,github,redhat,vscode&theme=light" />
@@ -29,7 +29,7 @@
 
 ---
 
-#  Tools & Favorite Stack
+# Tools & Favorite Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Brave-222222?style=for-the-badge&logo=Brave&logoColor=white" />
   <img src="https://img.shields.io/badge/Tor_Browser-333333?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
@@ -50,7 +50,7 @@
 
 ---
 
-# 📞 Contact
+# <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="20" style="color:black"/> Contact
 <p align="center">
   <a href="https://t.me/CyberLinuxID">
     <img src="https://img.shields.io/badge/Telegram_Grup-CyberLinuxID-333333?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -66,15 +66,16 @@
 ---
 
 ## Fokus Kami
--  Pembagian **tools gratis**  
--  Pembagian **item gratis**  
-- Project tools dari berbagai sumber & buatan sendiri  
-- Pembagian **alat web dan aplikasi**  
+<ul>
+<li><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/gift.svg" width="15" style="color:black"/> Pembagian <b>tools gratis</b></li>
+<li><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/gift.svg" width="15" style="color:black"/> Pembagian <b>item gratis</b></li>
+<li><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/laptop-code.svg" width="15" style="color:black"/> Project tools dari berbagai sumber & buatan sendiri</li>
+<li><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg" width="15" style="color:black"/> Pembagian <b>alat web dan aplikasi</b></li>
+</ul>
 
 ---
 
-### ⚠️ Disclaimer
+### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/exclamation-triangle.svg" width="20" style="color:black"/> Disclaimer
 Semua tools & project di repo ini dibuat untuk **edukasi & riset keamanan siber**.  
-Kami **tidak bertanggung jawab** atas penyalahgunaan di luar tujuan tersebut. 
- 
-Gunakan dengan bijak 
+Kami **tidak bertanggung jawab** atas penyalahgunaan di luar tujuan tersebut.  
+Gunakan dengan bijak.
