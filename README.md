@@ -8,7 +8,7 @@
 
 ---
 
-### 👋 About CyberLinuxID
+### hello welcome ! To us From Team Linux
 > Repositori ini berisi berbagai web + **tools, project, dan riset keamanan siber**.  
 > Kami fokus pada **pembelajaran, eksplorasi, dan sharing tools gratis** untuk semua orang.
 
