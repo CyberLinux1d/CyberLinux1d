@@ -16,11 +16,11 @@
   <img src="https://komarev.com/ghpvc/?username=CyberLinux1d&label=Profile%20views&color=808080&style=flat" alt="CyberLinux1d" />
 </p>
 
-💡 Jangan lupa **follow GitHub kami** agar tidak ketinggalan update terbaru ⚡
+ Jangan lupa **follow GitHub kami** agar tidak ketinggalan update terbaru 
 
 ---
 
-# 🛠️ Tech & Skills
+# Tech & Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,github,redhat,vscode" />
@@ -29,7 +29,7 @@
 
 ---
 
-# ⚡ Tools & Favorite Stack
+#  Tools & Favorite Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Brave-222222?style=for-the-badge&logo=Brave&logoColor=white" />
   <img src="https://img.shields.io/badge/Tor_Browser-333333?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
@@ -43,7 +43,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberLinux1d&show_icons=true&bg_color=000000&title_color=AAAAAA&text_color=FFFFFF&icon_color=808080&border_color=333333" />
 </p>
@@ -65,20 +65,16 @@
 
 ---
 
-# ⚔️ Motto
-> **CyberLinuxID | Hacking and Cyber for Knowledge, not Destruction.**
-
----
-
-## 🎯 Fokus Kami
-- 📂 Pembagian **tools gratis**  
-- 🎁 Pembagian **item gratis**  
-- 🛠️ Project tools dari berbagai sumber & buatan sendiri  
-- 🌐 Pembagian **alat web hacking**  
+## Fokus Kami
+-  Pembagian **tools gratis**  
+-  Pembagian **item gratis**  
+- Project tools dari berbagai sumber & buatan sendiri  
+- Pembagian **alat web hacking**  
 
 ---
 
 ### ⚠️ Disclaimer
 Semua tools & project di repo ini dibuat untuk **edukasi & riset keamanan siber**.  
-Kami **tidak bertanggung jawab** atas penyalahgunaan di luar tujuan tersebut.  
-Gunakan dengan bijak ⚡
+Kami **tidak bertanggung jawab** atas penyalahgunaan di luar tujuan tersebut. 
+ 
+Gunakan dengan bijak 
