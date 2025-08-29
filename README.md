@@ -69,7 +69,7 @@
 -  Pembagian **tools gratis**  
 -  Pembagian **item gratis**  
 - Project tools dari berbagai sumber & buatan sendiri  
-- Pembagian **alat web hacking**  
+- Pembagian **alat web**  
 
 ---
 
