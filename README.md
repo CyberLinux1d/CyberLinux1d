@@ -1,8 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AAAAAA&center=true&vCenter=true&lines=Welcome+to+CyberLinuxID;Exploring+Cyber+World;GitHub:+CyberLinux1d)](https://git.io/typing-svg)
+
+---
+
 <p align="center">
   <img src="https://i.top4top.io/p_35272ygjl0.png" alt="CyberLinuxID Banner" width="600"/>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AAAAAA&center=true&vCenter=true&lines=Welcome+to+CyberLinuxID;Exploring+Cyber+World;GitHub:+CyberLinux1d)](https://git.io/typing-svg)
 
 ---
 
