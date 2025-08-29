@@ -1,35 +1,26 @@
 <p align="center">
-  <img src=" " alt="CyberLinuxID" width="600"/>
+  <img src="https://i.top4top.io/p_35272ygjl0.png" alt="CyberLinuxID" width="600"/>
 </p>
 
 ---
 
-# 🐧 CyberLinux
+### hello welcome To us From team Linux
 
-**CyberLinux.ID** adalah komunitas bagi para **hacker, developer, dan ahli keamanan siber**  
-yang menggabungkan kekuatan **Linux** dan **Ethical Hacking**.  
-
-
+---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CyberLinux1d&label=Profile%20views&color=808080&style=flat" alt="CyberLinux1d" />
 </p>
 
 ---
 
-## 🎯 Fokus Kami
-- 📂 Pembagian **tools hacking gratis**  
-- 🎁 Pembagian **item hacking gratis**  
+#### Fokus Kami
+- 📂 Pembagian **tools gratis**  
+- 🎁 Pembagian **item gratis**  
 - 🛠️ Project tools berbagai sumber & project buatan sendiri  
 - 🌐 Pembagian **alat web hacking**  
 
 ---
 
-## 📡 Komunitas & Kontak
-- 👥 **Grup Telegram** : [CyberLinuxID](https://t.me/CyberLinuxID)  
-- 👤 **Owner** : [@viaownercyberlinuxid](https://t.me/viaownercyberlinuxid)  
-- 📢 **Saluran WhatsApp** : [CyberLinuxID Channel](https://whatsapp.com/channel/0029Vb8ECg0A2pLGrAtizQ2W)  
-- 🌍 [Website](https://9o1kc.mssg.me/)  
-- 🐙 [GitHub](https://github.com/CyberLinux1d)  
 
 ---
 
