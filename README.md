@@ -9,7 +9,7 @@
 ---
 
 ### 👋 About CyberLinuxID
-> Repositori ini berisi berbagai **tools, project, dan riset keamanan siber** yang dibangun oleh tim **CyberLinuxID**.  
+> Repositori ini berisi berbagai web + **tools, project, dan riset keamanan siber** yang dibangun oleh tim **CyberLinuxID**.  
 > Kami fokus pada **pembelajaran, eksplorasi, dan sharing tools gratis** untuk semua orang.
 
 <p align="left">
