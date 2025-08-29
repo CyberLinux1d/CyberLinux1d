@@ -8,7 +8,7 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/hand-wave.svg" width="20" style="color:black"/> hello welcome ! To us From Team Linux
+### hello welcome ! To us From Team Linux
 > Repositori ini berisi berbagai web + **tools, project, dan riset keamanan siber**.  
 > Kami fokus pada **pembelajaran, eksplorasi, dan sharing tools gratis** untuk semua orang.
 
